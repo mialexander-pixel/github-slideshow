@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my text!
+being witty is hard, bot!
 Use the left arrow to go back!
